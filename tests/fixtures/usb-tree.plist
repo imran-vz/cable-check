@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IOObjectClass</key>
+	<string>IORegistryEntry</string>
+	<key>IORegistryEntryChildren</key>
+	<array>
+		<dict>
+			<key>IOObjectClass</key>
+			<string>AppleT8132USBXHCI</string>
+			<key>IORegistryEntryChildren</key>
+			<array>
+				<dict>
+					<key>IOObjectClass</key>
+					<string>IOUSBHostDevice</string>
+					<key>IORegistryEntryChildren</key>
+					<array/>
+					<key>IORegistryEntryName</key>
+					<string>Ugreen Storage Device</string>
+					<key>USB Product Name</key>
+					<string>Ugreen Storage Device</string>
+					<key>USB Vendor Name</key>
+					<string>Ugreen</string>
+					<key>USBPortType</key>
+					<integer>5</integer>
+					<key>UsbLinkSpeed</key>
+					<integer>10000000000</integer>
+					<key>bDeviceClass</key>
+					<integer>0</integer>
+					<key>idProduct</key>
+					<integer>37392</integer>
+					<key>idVendor</key>
+					<integer>3034</integer>
+					<key>locationID</key>
+					<integer>18874368</integer>
+				</dict>
+			</array>
+			<key>IORegistryEntryName</key>
+			<string>AppleT8132USBXHCI</string>
+			<key>locationID</key>
+			<integer>16777216</integer>
+		</dict>
+		<dict>
+			<key>IOObjectClass</key>
+			<string>AppleT8132USBXHCI</string>
+			<key>IORegistryEntryChildren</key>
+			<array>
+				<dict>
+					<key>IOObjectClass</key>
+					<string>IOUSBHostDevice</string>
+					<key>IORegistryEntryChildren</key>
+					<array>
+						<dict>
+							<key>IOObjectClass</key>
+							<string>IOUSBHostDevice</string>
+							<key>IORegistryEntryChildren</key>
+							<array/>
+							<key>IORegistryEntryName</key>
+							<string>USB2.1 Hub</string>
+							<key>USB Product Name</key>
+							<string>USB2.1 Hub</string>
+							<key>USB Vendor Name</key>
+							<string>Generic</string>
+							<key>USBPortType</key>
+							<integer>1</integer>
+							<key>UsbLinkSpeed</key>
+							<integer>480000000</integer>
+							<key>bDeviceClass</key>
+							<integer>9</integer>
+							<key>idProduct</key>
+							<integer>21521</integer>
+							<key>idVendor</key>
+							<integer>3034</integer>
+							<key>locationID</key>
+							<integer>1245184</integer>
+						</dict>
+						<dict>
+							<key>IOObjectClass</key>
+							<string>IOUSBHostDevice</string>
+							<key>IORegistryEntryChildren</key>
+							<array/>
+							<key>IORegistryEntryName</key>
+							<string>BenQ GW2790QT</string>
+							<key>USB Product Name</key>
+							<string>BenQ GW2790QT</string>
+							<key>USB Vendor Name</key>
+							<string>Generic</string>
+							<key>USBPortType</key>
+							<integer>1</integer>
+							<key>UsbLinkSpeed</key>
+							<integer>480000000</integer>
+							<key>bDeviceClass</key>
+							<integer>0</integer>
+							<key>idProduct</key>
+							<integer>19580</integer>
+							<key>idVendor</key>
+							<integer>3034</integer>
+							<key>locationID</key>
+							<integer>1310720</integer>
+						</dict>
+						<dict>
+							<key>IOObjectClass</key>
+							<string>IOUSBHostDevice</string>
+							<key>IORegistryEntryChildren</key>
+							<array/>
+							<key>IORegistryEntryName</key>
+							<string>USB Keyboard</string>
+							<key>USB Product Name</key>
+							<string>USB Keyboard</string>
+							<key>USB Vendor Name</key>
+							<string>Example</string>
+							<key>USBPortType</key>
+							<integer>0</integer>
+							<key>UsbLinkSpeed</key>
+							<integer>12000000</integer>
+							<key>bDeviceClass</key>
+							<integer>0</integer>
+							<key>idProduct</key>
+							<integer>1</integer>
+							<key>idVendor</key>
+							<integer>4369</integer>
+						</dict>
+					</array>
+					<key>IORegistryEntryName</key>
+					<string>USB2.1 Hub</string>
+					<key>USB Product Name</key>
+					<string>USB2.1 Hub</string>
+					<key>USB Vendor Name</key>
+					<string>Generic</string>
+					<key>USBPortType</key>
+					<integer>5</integer>
+					<key>UsbLinkSpeed</key>
+					<integer>480000000</integer>
+					<key>bDeviceClass</key>
+					<integer>9</integer>
+					<key>idProduct</key>
+					<integer>21521</integer>
+					<key>idVendor</key>
+					<integer>3034</integer>
+					<key>locationID</key>
+					<integer>1048576</integer>
+				</dict>
+				<dict>
+					<key>IOObjectClass</key>
+					<string>IOUSBHostDevice</string>
+					<key>IORegistryEntryChildren</key>
+					<array>
+						<dict>
+							<key>IOObjectClass</key>
+							<string>IOUSBHostDevice</string>
+							<key>IORegistryEntryChildren</key>
+							<array/>
+							<key>IORegistryEntryName</key>
+							<string>USB3.2 Hub</string>
+							<key>USB Product Name</key>
+							<string>USB3.2 Hub</string>
+							<key>USB Vendor Name</key>
+							<string>Generic</string>
+							<key>USBPortType</key>
+							<integer>1</integer>
+							<key>UsbLinkSpeed</key>
+							<integer>5000000000</integer>
+							<key>bDeviceClass</key>
+							<integer>9</integer>
+							<key>idProduct</key>
+							<integer>1041</integer>
+							<key>idVendor</key>
+							<integer>3034</integer>
+							<key>locationID</key>
+							<integer>2293760</integer>
+						</dict>
+						<dict>
+							<key>IOObjectClass</key>
+							<string>IOUSBHostDevice</string>
+							<key>IORegistryEntryChildren</key>
+							<array/>
+							<key>IORegistryEntryName</key>
+							<string>Flash Drive</string>
+							<key>USB Product Name</key>
+							<string>Flash Drive</string>
+							<key>USB Vendor Name</key>
+							<string>Example</string>
+							<key>USBPortType</key>
+							<integer>0</integer>
+							<key>UsbLinkSpeed</key>
+							<integer>5000000000</integer>
+							<key>bDeviceClass</key>
+							<integer>0</integer>
+							<key>idProduct</key>
+							<integer>2</integer>
+							<key>idVendor</key>
+							<integer>4369</integer>
+						</dict>
+					</array>
+					<key>IORegistryEntryName</key>
+					<string>USB3.2 Hub</string>
+					<key>USB Product Name</key>
+					<string>USB3.2 Hub</string>
+					<key>USB Vendor Name</key>
+					<string>Generic</string>
+					<key>USBPortType</key>
+					<integer>5</integer>
+					<key>UsbLinkSpeed</key>
+					<integer>5000000000</integer>
+					<key>bDeviceClass</key>
+					<integer>9</integer>
+					<key>idProduct</key>
+					<integer>1041</integer>
+					<key>idVendor</key>
+					<integer>3034</integer>
+					<key>locationID</key>
+					<integer>2097152</integer>
+				</dict>
+			</array>
+			<key>IORegistryEntryName</key>
+			<string>AppleT8132USBXHCI</string>
+			<key>locationID</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>IOObjectClass</key>
+			<string>AppleT8132USBXHCI</string>
+			<key>IORegistryEntryChildren</key>
+			<array/>
+			<key>IORegistryEntryName</key>
+			<string>AppleT8132USBXHCI</string>
+			<key>locationID</key>
+			<integer>33554432</integer>
+		</dict>
+	</array>
+	<key>IORegistryEntryName</key>
+	<string>Root</string>
+</dict>
+</plist>

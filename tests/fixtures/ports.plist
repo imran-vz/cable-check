@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>AccessoryMode</key>
+		<integer>0</integer>
+		<key>ActiveCable</key>
+		<false/>
+		<key>AppLoaded Count</key>
+		<integer>1</integer>
+		<key>AutoMatched</key>
+		<false/>
+		<key>BuiltIn</key>
+		<true/>
+		<key>ConnectionActive</key>
+		<true/>
+		<key>ConnectionCount</key>
+		<integer>3</integer>
+		<key>Description</key>
+		<string>Port-USB-C@1</string>
+		<key>DisplayPortPinAssignment</key>
+		<true/>
+		<key>FeaturesEnabled</key>
+		<array>
+			<string>TRM</string>
+			<string>LDCM</string>
+			<string>Power In</string>
+		</array>
+		<key>FeaturesSupported</key>
+		<array>
+			<string>TRM</string>
+			<string>LDCM</string>
+			<string>Power In</string>
+		</array>
+		<key>HPDAsserted</key>
+		<true/>
+		<key>HPM Mode Block Active</key>
+		<false/>
+		<key>IOClass</key>
+		<string>AppleHPMInterfaceType10</string>
+		<key>IOObjectClass</key>
+		<string>AppleHPMInterfaceType10</string>
+		<key>IOProviderClass</key>
+		<string>AppleHPMDeviceHAL</string>
+		<key>IORegistryEntryChildren</key>
+		<array>
+			<dict>
+				<key>Active</key>
+				<true/>
+				<key>DriverStatus</key>
+				<integer>0</integer>
+				<key>DriverStatusDescription</key>
+				<string>Not Monitored</string>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportStateCC</string>
+				<key>IORegistryEntryChildren</key>
+				<array>
+					<dict>
+						<key>Address</key>
+						<integer>1</integer>
+						<key>Address Description</key>
+						<string>SOP</string>
+						<key>AddressDescription</key>
+						<string>SOP</string>
+						<key>ComponentName</key>
+						<string>SOP</string>
+						<key>Description</key>
+						<string>Port-USB-C@1/CC/SOP</string>
+						<key>IOObjectClass</key>
+						<string>IOPortTransportComponentCCUSBPDSOP</string>
+						<key>IORegistryEntryName</key>
+						<string>SOP</string>
+						<key>Metadata</key>
+						<dict>
+							<key>Product ID</key>
+							<integer>0</integer>
+							<key>VDO Count</key>
+							<integer>4</integer>
+							<key>VDOs</key>
+							<array>
+								<data>
+								2gtAbA==
+								</data>
+								<data>
+								AAAAAA==
+								</data>
+								<data>
+								GgAAAA==
+								</data>
+								<data>
+								CQAAEA==
+								</data>
+							</array>
+							<key>Vendor ID</key>
+							<integer>3034</integer>
+							<key>bcdDevice</key>
+							<integer>26</integer>
+						</dict>
+						<key>Product ID</key>
+						<integer>0</integer>
+						<key>Specification Revision</key>
+						<integer>3</integer>
+						<key>Vendor ID</key>
+						<integer>3034</integer>
+					</dict>
+					<dict>
+						<key>Address</key>
+						<integer>2</integer>
+						<key>Address Description</key>
+						<string>SOP'</string>
+						<key>AddressDescription</key>
+						<string>SOP'</string>
+						<key>ComponentName</key>
+						<string>SOP'</string>
+						<key>Description</key>
+						<string>Port-USB-C@1/CC/SOP'</string>
+						<key>IOObjectClass</key>
+						<string>IOPortTransportComponentCCUSBPDSOPp</string>
+						<key>IORegistryEntryName</key>
+						<string>SOP'</string>
+						<key>Metadata</key>
+						<dict>
+							<key>Product ID</key>
+							<integer>0</integer>
+							<key>Product Type</key>
+							<integer>3</integer>
+							<key>Product Type Description</key>
+							<string>Passive Cable</string>
+							<key>VDO Count</key>
+							<integer>4</integer>
+							<key>VDOs</key>
+							<array>
+								<data>
+								AABgGA==
+								</data>
+								<data>
+								AAAAAA==
+								</data>
+								<data>
+								AAAAAA==
+								</data>
+								<data>
+								QmYKAA==
+								</data>
+							</array>
+							<key>Vendor ID</key>
+							<integer>0</integer>
+							<key>bcdDevice</key>
+							<integer>0</integer>
+						</dict>
+						<key>Product ID</key>
+						<integer>0</integer>
+						<key>Product Type</key>
+						<integer>3</integer>
+						<key>Product Type Description</key>
+						<string>Passive Cable</string>
+						<key>Specification Revision</key>
+						<integer>3</integer>
+						<key>Vendor ID</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>IORegistryEntryName</key>
+				<string>CC</string>
+				<key>Index</key>
+				<integer>0</integer>
+				<key>Metadata</key>
+				<dict>
+					<key>Vendor ID (SOP)</key>
+					<integer>3034</integer>
+				</dict>
+				<key>TransportDescription</key>
+				<string>Port-USB-C@1/CC</string>
+				<key>TransportType</key>
+				<integer>1</integer>
+				<key>TransportTypeDescription</key>
+				<string>CC</string>
+				<key>Tunneled</key>
+				<false/>
+				<key>Vendor ID (SOP)</key>
+				<integer>3034</integer>
+			</dict>
+			<dict>
+				<key>Active</key>
+				<false/>
+				<key>Description</key>
+				<string>Port-USB-C@1/Power In</string>
+				<key>FeatureType</key>
+				<integer>3</integer>
+				<key>FeatureTypeDescription</key>
+				<string>Power In</string>
+				<key>IOObjectClass</key>
+				<string>IOPortFeaturePowerIn</string>
+				<key>IORegistryEntryChildren</key>
+				<array>
+					<dict>
+						<key>Description</key>
+						<string>Port-USB-C@1/Power In/USB-PD</string>
+						<key>IOObjectClass</key>
+						<string>IOPortFeaturePowerSource</string>
+						<key>IORegistryEntryName</key>
+						<string>USB-PD [*]</string>
+						<key>Metadata</key>
+						<dict/>
+						<key>PowerSourceName</key>
+						<string>USB-PD</string>
+						<key>PowerSourceOptions</key>
+						<array>
+							<dict>
+								<key>Class</key>
+								<string>IOPortFeaturePowerSourceOptionFixed</string>
+								<key>Max Current (mA)</key>
+								<integer>3000</integer>
+								<key>Max Power (mW)</key>
+								<integer>36000</integer>
+								<key>UUID</key>
+								<string>EAE5E1A3-5345-47D6-B3C6-AD78B8B40D8A</string>
+								<key>Voltage (mV)</key>
+								<integer>12000</integer>
+							</dict>
+							<dict>
+								<key>Class</key>
+								<string>IOPortFeaturePowerSourceOptionFixed</string>
+								<key>Max Current (mA)</key>
+								<integer>3000</integer>
+								<key>Max Power (mW)</key>
+								<integer>45000</integer>
+								<key>UUID</key>
+								<string>89BE21DB-8CE3-4F2B-986B-FDAF541A598C</string>
+								<key>Voltage (mV)</key>
+								<integer>15000</integer>
+							</dict>
+							<dict>
+								<key>Class</key>
+								<string>IOPortFeaturePowerSourceOptionFixed</string>
+								<key>Max Current (mA)</key>
+								<integer>3250</integer>
+								<key>Max Power (mW)</key>
+								<integer>65000</integer>
+								<key>UUID</key>
+								<string>541E6A92-AE87-4102-B89A-EC957332C7C2</string>
+								<key>Voltage (mV)</key>
+								<integer>20000</integer>
+							</dict>
+							<dict>
+								<key>Class</key>
+								<string>IOPortFeaturePowerSourceOptionFixed</string>
+								<key>Max Current (mA)</key>
+								<integer>3000</integer>
+								<key>Max Power (mW)</key>
+								<integer>15000</integer>
+								<key>UUID</key>
+								<string>F268A011-B331-4B84-B777-393BB781E375</string>
+								<key>Voltage (mV)</key>
+								<integer>5000</integer>
+							</dict>
+							<dict>
+								<key>Class</key>
+								<string>IOPortFeaturePowerSourceOptionFixed</string>
+								<key>Max Current (mA)</key>
+								<integer>3000</integer>
+								<key>Max Power (mW)</key>
+								<integer>27000</integer>
+								<key>UUID</key>
+								<string>8FD53757-9CDB-488D-BBCC-D67B9A50DA06</string>
+								<key>Voltage (mV)</key>
+								<integer>9000</integer>
+							</dict>
+						</array>
+						<key>PowerSourceType</key>
+						<integer>2</integer>
+						<key>Priority</key>
+						<integer>1000</integer>
+						<key>WinningPowerSourceOption</key>
+						<dict>
+							<key>Class</key>
+							<string>IOPortFeaturePowerSourceOptionFixed</string>
+							<key>Max Current (mA)</key>
+							<integer>3250</integer>
+							<key>Max Power (mW)</key>
+							<integer>65000</integer>
+							<key>UUID</key>
+							<string>541E6A92-AE87-4102-B89A-EC957332C7C2</string>
+							<key>Voltage (mV)</key>
+							<integer>20000</integer>
+						</dict>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Port-USB-C@1/Power In/Brick ID</string>
+						<key>IOObjectClass</key>
+						<string>IOPortFeaturePowerSource</string>
+						<key>IORegistryEntryName</key>
+						<string>Brick ID</string>
+						<key>Metadata</key>
+						<dict/>
+						<key>PowerSourceName</key>
+						<string>Brick ID</string>
+						<key>PowerSourceOptions</key>
+						<array>
+							<dict>
+								<key>Class</key>
+								<string>IOPortFeaturePowerSourceOptionFixed</string>
+								<key>Max Current (mA)</key>
+								<integer>500</integer>
+								<key>Max Power (mW)</key>
+								<integer>2500</integer>
+								<key>UUID</key>
+								<string>E3F77124-B502-4D15-B5D1-37E49A2C26A0</string>
+								<key>Voltage (mV)</key>
+								<integer>5000</integer>
+							</dict>
+						</array>
+						<key>PowerSourceType</key>
+						<integer>0</integer>
+						<key>Priority</key>
+						<integer>-500</integer>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Port-USB-C@1/Power In/TypeC</string>
+						<key>IOObjectClass</key>
+						<string>IOPortFeaturePowerSource</string>
+						<key>IORegistryEntryName</key>
+						<string>TypeC</string>
+						<key>Metadata</key>
+						<dict/>
+						<key>PowerSourceName</key>
+						<string>TypeC</string>
+						<key>PowerSourceOptions</key>
+						<array>
+							<dict>
+								<key>Class</key>
+								<string>IOPortFeaturePowerSourceOptionFixed</string>
+								<key>Max Current (mA)</key>
+								<integer>1500</integer>
+								<key>Max Power (mW)</key>
+								<integer>7500</integer>
+								<key>UUID</key>
+								<string>56456D7F-4133-491E-96B8-839F18D759EC</string>
+								<key>Voltage (mV)</key>
+								<integer>5000</integer>
+							</dict>
+						</array>
+						<key>PowerSourceType</key>
+						<integer>0</integer>
+						<key>Priority</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>IORegistryEntryName</key>
+				<string>Power In</string>
+				<key>Metadata</key>
+				<dict/>
+			</dict>
+			<dict>
+				<key>Active</key>
+				<true/>
+				<key>DataRate</key>
+				<integer>1</integer>
+				<key>DataRateDescription</key>
+				<string>5 Gbps</string>
+				<key>DataRole</key>
+				<integer>2</integer>
+				<key>DataRoleDescription</key>
+				<string>Host</string>
+				<key>Device Class</key>
+				<integer>9</integer>
+				<key>Device Protocol</key>
+				<integer>3</integer>
+				<key>Device Subclass</key>
+				<integer>0</integer>
+				<key>DriverStatus</key>
+				<integer>2</integer>
+				<key>DriverStatusDescription</key>
+				<string>Ready</string>
+				<key>Generation</key>
+				<integer>2</integer>
+				<key>GenerationDescription</key>
+				<string>USB 3.x</string>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportStateUSB3</string>
+				<key>IORegistryEntryName</key>
+				<string>USB3</string>
+				<key>Index</key>
+				<integer>0</integer>
+				<key>Manufacturer</key>
+				<string>Generic</string>
+				<key>Metadata</key>
+				<dict>
+					<key>Device Class</key>
+					<integer>9</integer>
+					<key>Device Function</key>
+					<integer>3</integer>
+					<key>Device Protocol</key>
+					<integer>3</integer>
+					<key>Device Subclass</key>
+					<integer>0</integer>
+					<key>Manufacturer</key>
+					<string>Generic</string>
+					<key>Product</key>
+					<string>USB3.2 Hub</string>
+					<key>Product ID</key>
+					<integer>1041</integer>
+					<key>Vendor ID</key>
+					<integer>3034</integer>
+				</dict>
+				<key>NominalSignalingFrequenciesHz</key>
+				<array>
+					<integer>30000000</integer>
+					<integer>2500000000</integer>
+				</array>
+				<key>PortDataRole</key>
+				<integer>2</integer>
+				<key>PortDataRoleDescription</key>
+				<string>Host</string>
+				<key>Product</key>
+				<string>USB3.2 Hub</string>
+				<key>Product ID</key>
+				<integer>1041</integer>
+				<key>SuperSpeedSignaling</key>
+				<integer>2</integer>
+				<key>SuperSpeedSignalingDescription</key>
+				<string>Gen 2</string>
+				<key>TransportDescription</key>
+				<string>Port-USB-C@1/USB3</string>
+				<key>TransportType</key>
+				<integer>3</integer>
+				<key>TransportTypeDescription</key>
+				<string>USB3</string>
+				<key>Tunneled</key>
+				<false/>
+				<key>Vendor ID</key>
+				<integer>3034</integer>
+			</dict>
+			<dict>
+				<key>Active</key>
+				<true/>
+				<key>DataRate</key>
+				<integer>3</integer>
+				<key>DataRateDescription</key>
+				<string>480 Mbps (High Speed)</string>
+				<key>DataRole</key>
+				<integer>2</integer>
+				<key>DataRoleDescription</key>
+				<string>Host</string>
+				<key>Device Class</key>
+				<integer>9</integer>
+				<key>Device Protocol</key>
+				<integer>2</integer>
+				<key>Device Subclass</key>
+				<integer>0</integer>
+				<key>DriverStatus</key>
+				<integer>2</integer>
+				<key>DriverStatusDescription</key>
+				<string>Ready</string>
+				<key>Generation</key>
+				<integer>1</integer>
+				<key>GenerationDescription</key>
+				<string>USB 2.0</string>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportStateUSB2</string>
+				<key>IORegistryEntryName</key>
+				<string>USB2</string>
+				<key>Index</key>
+				<integer>0</integer>
+				<key>Manufacturer</key>
+				<string>Generic</string>
+				<key>Metadata</key>
+				<dict>
+					<key>Device Class</key>
+					<integer>9</integer>
+					<key>Device Function</key>
+					<integer>3</integer>
+					<key>Device Protocol</key>
+					<integer>2</integer>
+					<key>Device Subclass</key>
+					<integer>0</integer>
+					<key>Manufacturer</key>
+					<string>Generic</string>
+					<key>Product</key>
+					<string>USB2.1 Hub</string>
+					<key>Product ID</key>
+					<integer>21521</integer>
+					<key>Vendor ID</key>
+					<integer>3034</integer>
+				</dict>
+				<key>NominalSignalingFrequenciesHz</key>
+				<array>
+					<integer>240000000</integer>
+				</array>
+				<key>PortDataRole</key>
+				<integer>2</integer>
+				<key>PortDataRoleDescription</key>
+				<string>Host</string>
+				<key>Product</key>
+				<string>USB2.1 Hub</string>
+				<key>Product ID</key>
+				<integer>21521</integer>
+				<key>TransportDescription</key>
+				<string>Port-USB-C@1/USB2</string>
+				<key>TransportType</key>
+				<integer>2</integer>
+				<key>TransportTypeDescription</key>
+				<string>USB2</string>
+				<key>Tunneled</key>
+				<false/>
+				<key>Vendor ID</key>
+				<integer>3034</integer>
+			</dict>
+			<dict>
+				<key>Active</key>
+				<true/>
+				<key>DriverStatus</key>
+				<integer>2</integer>
+				<key>DriverStatusDescription</key>
+				<string>Ready</string>
+				<key>EDIDChanged</key>
+				<true/>
+				<key>HPD_State</key>
+				<integer>2</integer>
+				<key>HPD_StateDescription</key>
+				<string>High</string>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportStateDisplayPort</string>
+				<key>IORegistryEntryName</key>
+				<string>DisplayPort</string>
+				<key>Index</key>
+				<integer>0</integer>
+				<key>LaneCount</key>
+				<integer>2</integer>
+				<key>LinkRate</key>
+				<integer>3</integer>
+				<key>LinkRateDescription</key>
+				<string>5.4 Gbps (HBR2)</string>
+				<key>ManufacturerName</key>
+				<string>BNQ</string>
+				<key>MaxLaneCount</key>
+				<integer>2</integer>
+				<key>Metadata</key>
+				<dict>
+					<key>DFP Type</key>
+					<integer>0</integer>
+					<key>DFP Type Description</key>
+					<string>DP</string>
+					<key>ManufacturerName</key>
+					<string>BNQ</string>
+					<key>ProductID</key>
+					<integer>30965</integer>
+					<key>ProductName</key>
+					<string>BenQ GW2790QT</string>
+					<key>SinkDeviceID</key>
+					<string>Dp1.4</string>
+					<key>SinkDeviceOUI</key>
+					<data>
+					AOBM
+					</data>
+					<key>Week of Manufacture</key>
+					<integer>34</integer>
+					<key>Year of Manufacture</key>
+					<integer>2023</integer>
+				</dict>
+				<key>NominalSignalingFrequenciesHz</key>
+				<array>
+					<integer>5400000000</integer>
+				</array>
+				<key>ProductID</key>
+				<integer>30965</integer>
+				<key>ProductName</key>
+				<string>BenQ GW2790QT</string>
+				<key>Role</key>
+				<integer>2</integer>
+				<key>RoleDescription</key>
+				<string>Source</string>
+				<key>SinkCount</key>
+				<integer>1</integer>
+				<key>SinkDeviceID</key>
+				<string>Dp1.4</string>
+				<key>SinkDeviceOUI</key>
+				<data>
+				AOBM
+				</data>
+				<key>TransportDescription</key>
+				<string>Port-USB-C@1/DisplayPort</string>
+				<key>TransportType</key>
+				<integer>5</integer>
+				<key>TransportTypeDescription</key>
+				<string>DisplayPort</string>
+				<key>Tunneled</key>
+				<false/>
+			</dict>
+		</array>
+		<key>IORegistryEntryName</key>
+		<string>Port-USB-C</string>
+		<key>Metadata</key>
+		<dict/>
+		<key>OpticalCable</key>
+		<false/>
+		<key>Overcurrent Count</key>
+		<integer>0</integer>
+		<key>Pin Configuration</key>
+		<dict>
+			<key>rx1</key>
+			<integer>5</integer>
+			<key>rx2</key>
+			<integer>4</integer>
+			<key>sbu1</key>
+			<integer>2</integer>
+			<key>sbu2</key>
+			<integer>1</integer>
+			<key>tx1</key>
+			<integer>6</integer>
+			<key>tx2</key>
+			<integer>3</integer>
+		</dict>
+		<key>Plug Event Count</key>
+		<integer>5</integer>
+		<key>PlugOrientation</key>
+		<integer>2</integer>
+		<key>PortDescription</key>
+		<string>Port-USB-C@1</string>
+		<key>PortNumber</key>
+		<integer>1</integer>
+		<key>PortType</key>
+		<integer>2</integer>
+		<key>PortTypeDescription</key>
+		<string>USB-C</string>
+		<key>SOP UVDM Update Count</key>
+		<integer>2</integer>
+		<key>SOPMfgString</key>
+		<string>Realtek</string>
+		<key>SOPPID</key>
+		<data>
+		VFA=
+		</data>
+		<key>SOPVID</key>
+		<data>
+		C9o=
+		</data>
+		<key>TransportsActive</key>
+		<array>
+			<string>CC</string>
+			<string>USB3</string>
+			<string>USB2</string>
+			<string>DisplayPort</string>
+		</array>
+		<key>TransportsProvisioned</key>
+		<array>
+			<string>CC</string>
+			<string>USB3</string>
+			<string>USB2</string>
+			<string>DisplayPort</string>
+		</array>
+		<key>TransportsSupported</key>
+		<array>
+			<string>CC</string>
+			<string>USB2</string>
+			<string>USB3</string>
+			<string>CIO</string>
+			<string>DisplayPort</string>
+		</array>
+		<key>TransportsUnauthorized</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>AccessoryMode</key>
+		<integer>0</integer>
+		<key>ActiveCable</key>
+		<false/>
+		<key>AppLoaded Count</key>
+		<integer>1</integer>
+		<key>AutoMatched</key>
+		<false/>
+		<key>BuiltIn</key>
+		<true/>
+		<key>ConnectionActive</key>
+		<true/>
+		<key>ConnectionCount</key>
+		<integer>1</integer>
+		<key>Description</key>
+		<string>Port-USB-C@2</string>
+		<key>DisplayPortPinAssignment</key>
+		<integer>0</integer>
+		<key>FeaturesEnabled</key>
+		<array>
+			<string>TRM</string>
+			<string>LDCM</string>
+			<string>Power In</string>
+		</array>
+		<key>FeaturesSupported</key>
+		<array>
+			<string>TRM</string>
+			<string>LDCM</string>
+			<string>Power In</string>
+		</array>
+		<key>HPDAsserted</key>
+		<false/>
+		<key>HPM Mode Block Active</key>
+		<false/>
+		<key>IOClass</key>
+		<string>AppleHPMInterfaceType10</string>
+		<key>IOObjectClass</key>
+		<string>AppleHPMInterfaceType10</string>
+		<key>IOProviderClass</key>
+		<string>AppleHPMDeviceHAL</string>
+		<key>IORegistryEntryChildren</key>
+		<array>
+			<dict>
+				<key>Active</key>
+				<true/>
+				<key>DriverStatus</key>
+				<integer>0</integer>
+				<key>DriverStatusDescription</key>
+				<string>Not Monitored</string>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportStateCC</string>
+				<key>IORegistryEntryName</key>
+				<string>CC</string>
+				<key>Index</key>
+				<integer>0</integer>
+				<key>Metadata</key>
+				<dict/>
+				<key>TransportDescription</key>
+				<string>Port-USB-C@2/CC</string>
+				<key>TransportType</key>
+				<integer>1</integer>
+				<key>TransportTypeDescription</key>
+				<string>CC</string>
+				<key>Tunneled</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Active</key>
+				<false/>
+				<key>Description</key>
+				<string>Port-USB-C@2/Power In</string>
+				<key>FeatureType</key>
+				<integer>3</integer>
+				<key>FeatureTypeDescription</key>
+				<string>Power In</string>
+				<key>IOObjectClass</key>
+				<string>IOPortFeaturePowerIn</string>
+				<key>IORegistryEntryName</key>
+				<string>Power In</string>
+				<key>Metadata</key>
+				<dict/>
+			</dict>
+			<dict>
+				<key>Active</key>
+				<true/>
+				<key>DataRate</key>
+				<integer>2</integer>
+				<key>DataRateDescription</key>
+				<string>10 Gbps</string>
+				<key>DataRole</key>
+				<integer>2</integer>
+				<key>DataRoleDescription</key>
+				<string>Host</string>
+				<key>Device Class</key>
+				<integer>0</integer>
+				<key>Device Protocol</key>
+				<integer>0</integer>
+				<key>Device Subclass</key>
+				<integer>0</integer>
+				<key>DriverStatus</key>
+				<integer>2</integer>
+				<key>DriverStatusDescription</key>
+				<string>Ready</string>
+				<key>Generation</key>
+				<integer>2</integer>
+				<key>GenerationDescription</key>
+				<string>USB 3.x</string>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportStateUSB3</string>
+				<key>IORegistryEntryName</key>
+				<string>USB3</string>
+				<key>Index</key>
+				<integer>0</integer>
+				<key>Manufacturer</key>
+				<string>Ugreen</string>
+				<key>Metadata</key>
+				<dict>
+					<key>Device Class</key>
+					<integer>0</integer>
+					<key>Device Function</key>
+					<integer>5</integer>
+					<key>Device Protocol</key>
+					<integer>0</integer>
+					<key>Device Subclass</key>
+					<integer>0</integer>
+					<key>Manufacturer</key>
+					<string>Ugreen</string>
+					<key>Product</key>
+					<string>Ugreen Storage Device</string>
+					<key>Product ID</key>
+					<integer>37392</integer>
+					<key>Vendor ID</key>
+					<integer>3034</integer>
+				</dict>
+				<key>NominalSignalingFrequenciesHz</key>
+				<array>
+					<integer>30000000</integer>
+					<integer>5000000000</integer>
+				</array>
+				<key>PortDataRole</key>
+				<integer>2</integer>
+				<key>PortDataRoleDescription</key>
+				<string>Host</string>
+				<key>Product</key>
+				<string>Ugreen Storage Device</string>
+				<key>Product ID</key>
+				<integer>37392</integer>
+				<key>SuperSpeedSignaling</key>
+				<integer>2</integer>
+				<key>SuperSpeedSignalingDescription</key>
+				<string>Gen 2</string>
+				<key>TransportDescription</key>
+				<string>Port-USB-C@2/USB3</string>
+				<key>TransportType</key>
+				<integer>3</integer>
+				<key>TransportTypeDescription</key>
+				<string>USB3</string>
+				<key>Tunneled</key>
+				<false/>
+				<key>Vendor ID</key>
+				<integer>3034</integer>
+			</dict>
+			<dict>
+				<key>Active</key>
+				<false/>
+				<key>DataRate</key>
+				<integer>0</integer>
+				<key>DataRateDescription</key>
+				<string>None</string>
+				<key>DataRole</key>
+				<integer>2</integer>
+				<key>DataRoleDescription</key>
+				<string>Host</string>
+				<key>DriverStatus</key>
+				<integer>2</integer>
+				<key>DriverStatusDescription</key>
+				<string>Ready</string>
+				<key>Generation</key>
+				<integer>1</integer>
+				<key>GenerationDescription</key>
+				<string>USB 2.0</string>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportStateUSB2</string>
+				<key>IORegistryEntryName</key>
+				<string>USB2</string>
+				<key>Index</key>
+				<integer>0</integer>
+				<key>Metadata</key>
+				<dict/>
+				<key>PortDataRole</key>
+				<integer>2</integer>
+				<key>PortDataRoleDescription</key>
+				<string>Host</string>
+				<key>TransportDescription</key>
+				<string>Port-USB-C@2/USB2</string>
+				<key>TransportType</key>
+				<integer>2</integer>
+				<key>TransportTypeDescription</key>
+				<string>USB2</string>
+				<key>Tunneled</key>
+				<false/>
+			</dict>
+		</array>
+		<key>IORegistryEntryName</key>
+		<string>Port-USB-C</string>
+		<key>Metadata</key>
+		<dict/>
+		<key>OpticalCable</key>
+		<false/>
+		<key>Overcurrent Count</key>
+		<integer>0</integer>
+		<key>Pin Configuration</key>
+		<dict>
+			<key>rx1</key>
+			<integer>2</integer>
+			<key>rx2</key>
+			<integer>0</integer>
+			<key>sbu1</key>
+			<integer>0</integer>
+			<key>sbu2</key>
+			<integer>0</integer>
+			<key>tx1</key>
+			<integer>1</integer>
+			<key>tx2</key>
+			<integer>0</integer>
+		</dict>
+		<key>Plug Event Count</key>
+		<integer>2</integer>
+		<key>PlugOrientation</key>
+		<integer>1</integer>
+		<key>PortDescription</key>
+		<string>Port-USB-C@2</string>
+		<key>PortNumber</key>
+		<integer>2</integer>
+		<key>PortType</key>
+		<integer>2</integer>
+		<key>PortTypeDescription</key>
+		<string>USB-C</string>
+		<key>SOP UVDM Update Count</key>
+		<integer>0</integer>
+		<key>TransportsActive</key>
+		<array>
+			<string>CC</string>
+			<string>USB3</string>
+		</array>
+		<key>TransportsProvisioned</key>
+		<array>
+			<string>CC</string>
+			<string>USB3</string>
+			<string>USB2</string>
+		</array>
+		<key>TransportsSupported</key>
+		<array>
+			<string>CC</string>
+			<string>USB2</string>
+			<string>USB3</string>
+			<string>CIO</string>
+			<string>DisplayPort</string>
+		</array>
+		<key>TransportsUnauthorized</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>AccessoryMode</key>
+		<integer>0</integer>
+		<key>ActiveCable</key>
+		<false/>
+		<key>AppLoaded Count</key>
+		<integer>1</integer>
+		<key>AutoMatched</key>
+		<false/>
+		<key>BuiltIn</key>
+		<true/>
+		<key>ConnectionActive</key>
+		<false/>
+		<key>ConnectionCount</key>
+		<integer>0</integer>
+		<key>Description</key>
+		<string>Port-MagSafe 3@1</string>
+		<key>DisplayPortPinAssignment</key>
+		<integer>0</integer>
+		<key>FeaturesEnabled</key>
+		<array>
+			<string>Power In</string>
+		</array>
+		<key>FeaturesSupported</key>
+		<array>
+			<string>Power In</string>
+		</array>
+		<key>HPDAsserted</key>
+		<false/>
+		<key>HPM Mode Block Active</key>
+		<false/>
+		<key>IOClass</key>
+		<string>AppleHPMInterfaceType11</string>
+		<key>IOObjectClass</key>
+		<string>AppleHPMInterfaceType11</string>
+		<key>IOProviderClass</key>
+		<string>AppleHPMDeviceHAL</string>
+		<key>IORegistryEntryChildren</key>
+		<array>
+			<dict>
+				<key>Active</key>
+				<false/>
+				<key>DriverStatus</key>
+				<integer>0</integer>
+				<key>DriverStatusDescription</key>
+				<string>Not Monitored</string>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportStateCC</string>
+				<key>IORegistryEntryName</key>
+				<string>CC</string>
+				<key>Index</key>
+				<integer>0</integer>
+				<key>Metadata</key>
+				<dict/>
+				<key>TransportDescription</key>
+				<string>Port-MagSafe 3@1/CC</string>
+				<key>TransportType</key>
+				<integer>1</integer>
+				<key>TransportTypeDescription</key>
+				<string>CC</string>
+				<key>Tunneled</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Active</key>
+				<false/>
+				<key>Description</key>
+				<string>Port-MagSafe 3@1/Power In</string>
+				<key>FeatureType</key>
+				<integer>3</integer>
+				<key>FeatureTypeDescription</key>
+				<string>Power In</string>
+				<key>IOObjectClass</key>
+				<string>IOPortFeaturePowerIn</string>
+				<key>IORegistryEntryName</key>
+				<string>Power In</string>
+				<key>Metadata</key>
+				<dict/>
+			</dict>
+		</array>
+		<key>IORegistryEntryName</key>
+		<string>Port-MagSafe 3</string>
+		<key>Metadata</key>
+		<dict/>
+		<key>OpticalCable</key>
+		<false/>
+		<key>Overcurrent Count</key>
+		<integer>0</integer>
+		<key>Pin Configuration</key>
+		<dict>
+			<key>rx1</key>
+			<integer>0</integer>
+			<key>rx2</key>
+			<integer>0</integer>
+			<key>sbu1</key>
+			<integer>0</integer>
+			<key>sbu2</key>
+			<integer>0</integer>
+			<key>tx1</key>
+			<integer>0</integer>
+			<key>tx2</key>
+			<integer>0</integer>
+		</dict>
+		<key>Plug Event Count</key>
+		<integer>1</integer>
+		<key>PlugOrientation</key>
+		<integer>0</integer>
+		<key>PortDescription</key>
+		<string>Port-MagSafe 3@1</string>
+		<key>PortNumber</key>
+		<integer>1</integer>
+		<key>PortType</key>
+		<integer>17</integer>
+		<key>PortTypeDescription</key>
+		<string>MagSafe 3</string>
+		<key>SOP UVDM Update Count</key>
+		<integer>0</integer>
+		<key>TransportsActive</key>
+		<array/>
+		<key>TransportsProvisioned</key>
+		<array>
+			<string>CC</string>
+		</array>
+		<key>TransportsSupported</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>AccessoryMode</key>
+		<integer>0</integer>
+		<key>ActiveCable</key>
+		<false/>
+		<key>AppLoaded Count</key>
+		<integer>1</integer>
+		<key>AutoMatched</key>
+		<false/>
+		<key>BuiltIn</key>
+		<true/>
+		<key>ConnectionActive</key>
+		<false/>
+		<key>ConnectionCount</key>
+		<integer>0</integer>
+		<key>Description</key>
+		<string>Port-USB-C@3</string>
+		<key>DisplayPortPinAssignment</key>
+		<integer>0</integer>
+		<key>FeaturesEnabled</key>
+		<array>
+			<string>TRM</string>
+			<string>LDCM</string>
+			<string>Power In</string>
+		</array>
+		<key>FeaturesSupported</key>
+		<array>
+			<string>TRM</string>
+			<string>LDCM</string>
+			<string>Power In</string>
+		</array>
+		<key>HPDAsserted</key>
+		<false/>
+		<key>HPM Mode Block Active</key>
+		<false/>
+		<key>IOClass</key>
+		<string>AppleHPMInterfaceType10</string>
+		<key>IOObjectClass</key>
+		<string>AppleHPMInterfaceType10</string>
+		<key>IOProviderClass</key>
+		<string>AppleHPMDeviceHAL</string>
+		<key>IORegistryEntryChildren</key>
+		<array>
+			<dict>
+				<key>Active</key>
+				<false/>
+				<key>DriverStatus</key>
+				<integer>0</integer>
+				<key>DriverStatusDescription</key>
+				<string>Not Monitored</string>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportStateCC</string>
+				<key>IORegistryEntryName</key>
+				<string>CC</string>
+				<key>Index</key>
+				<integer>0</integer>
+				<key>Metadata</key>
+				<dict/>
+				<key>TransportDescription</key>
+				<string>Port-USB-C@3/CC</string>
+				<key>TransportType</key>
+				<integer>1</integer>
+				<key>TransportTypeDescription</key>
+				<string>CC</string>
+				<key>Tunneled</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Active</key>
+				<false/>
+				<key>Description</key>
+				<string>Port-USB-C@3/Power In</string>
+				<key>FeatureType</key>
+				<integer>3</integer>
+				<key>FeatureTypeDescription</key>
+				<string>Power In</string>
+				<key>IOObjectClass</key>
+				<string>IOPortFeaturePowerIn</string>
+				<key>IORegistryEntryName</key>
+				<string>Power In</string>
+				<key>Metadata</key>
+				<dict/>
+			</dict>
+		</array>
+		<key>IORegistryEntryName</key>
+		<string>Port-USB-C</string>
+		<key>Metadata</key>
+		<dict/>
+		<key>OpticalCable</key>
+		<false/>
+		<key>Overcurrent Count</key>
+		<integer>0</integer>
+		<key>Pin Configuration</key>
+		<dict>
+			<key>rx1</key>
+			<integer>0</integer>
+			<key>rx2</key>
+			<integer>0</integer>
+			<key>sbu1</key>
+			<integer>0</integer>
+			<key>sbu2</key>
+			<integer>0</integer>
+			<key>tx1</key>
+			<integer>0</integer>
+			<key>tx2</key>
+			<integer>0</integer>
+		</dict>
+		<key>Plug Event Count</key>
+		<integer>1</integer>
+		<key>PlugOrientation</key>
+		<integer>0</integer>
+		<key>PortDescription</key>
+		<string>Port-USB-C@3</string>
+		<key>PortNumber</key>
+		<integer>3</integer>
+		<key>PortType</key>
+		<integer>2</integer>
+		<key>PortTypeDescription</key>
+		<string>USB-C</string>
+		<key>SOP UVDM Update Count</key>
+		<integer>0</integer>
+		<key>TransportsActive</key>
+		<array/>
+		<key>TransportsProvisioned</key>
+		<array>
+			<string>CC</string>
+		</array>
+		<key>TransportsSupported</key>
+		<array>
+			<string>CC</string>
+			<string>USB2</string>
+			<string>USB3</string>
+			<string>CIO</string>
+			<string>DisplayPort</string>
+		</array>
+	</dict>
+</array>
+</plist>
