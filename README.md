@@ -2,6 +2,8 @@
 
 A macOS app for sorting a drawer of unlabelled USB-C cables. Plug a device into the Mac with a cable and it tells you what the cable carried, what it failed to carry, and what this pair of devices was too slow to test. Built with [Rune](https://github.com/anomalyco/rune).
 
+> **Heads up:** this entire repo is AI-generated slop. Use it at your own risk.
+
 ![The test bench: link speed, verdict, and a meter of six speeds](docs/bench.png)
 
 ## What it does
